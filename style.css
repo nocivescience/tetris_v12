@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#games{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.657);
+    border-radius: 5px;
+}
